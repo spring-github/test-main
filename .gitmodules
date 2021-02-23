@@ -1,0 +1,3 @@
+[submodule "sub-fun"]
+	path = sub-fun
+	url = https://github.com/spring-github/test-sub.git
